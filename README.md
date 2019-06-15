@@ -7,3 +7,8 @@ This program is meant to represent a list of packages being delivered. The clien
 
 list.cpp - Contains setters, getters, constructors, and destructors.
 list.h - Interface for list and node class. 
+main.cpp - Used to call call functions and control program
+functions.cpp - Implementation file for circular linked list class, contains basic CLL functions
+package.cpp - Implementation file for abstract base class + derived classes
+package.h - Header file for abstract base class, and all following derived classes
+
