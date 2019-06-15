@@ -6,3 +6,4 @@ This program is meant to represent a list of packages being delivered. The clien
 - Still need to update display function to support RTTI
 
 list.cpp - Contains setters, getters, constructors, and destructors.
+list.h - Interface for list and node class. 
